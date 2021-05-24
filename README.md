@@ -1,1 +1,0 @@
-# frntend-mentor-proj
